@@ -7,7 +7,7 @@ This game will let you order random objects based on given time. If counter down
 
 ## Check the Game video/image 
 
-<a href="https://drive.google.com/uc?id=1z-_--8YZA6a5BLPbHgVke01e42LfbBO7">Screen Record</a>
+<a href="https://drive.google.com/uc?id=13ggSTfV4T9Q-mcXZHv1DW2AldCzhh8OY">Screen Record</a>
 
 ### Image of the game
 <p float="left">
